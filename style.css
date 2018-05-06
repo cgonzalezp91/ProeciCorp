@@ -1,0 +1,13 @@
+body {
+    overflow: hidden;
+  }
+  image {
+    width: 100vw;
+  }
+  .overlay {
+    width: 100vw;
+    height: 50vh;
+    position: absolute;
+    background: #f06;
+    mix-blend-mode: multiply;
+  }
